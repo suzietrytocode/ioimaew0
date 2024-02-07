@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="rus">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="маньяки.css">
+    <link rel="icon" type="image/png" href="jefrey2.png">
+    <title>Апельсины</title>
+</head>
+<body>
+<script src="manjaki.js"></script>
+    <header>
+        <h1>Образовательный Ресурс «Известные преступники СССР»</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="маньяки пон.html">Главная</a></li>
+            <li><a href="page1.html">Анатолий Седых</a></li>
+            <li><a href="page2.html">Михаил Попков</a></li>
+            <li><a href="page3.html">Александр Спесивцев</a></li>
+            <li><a href="page4.html">Сергей Головкин</a></li>
+            <li><a href="page5.html">Владимир Ионесян</a></li>
+            <li><a href="page6.html">Александр Пичушкин</a></li>
+        </ul>
+    </nav>
+    <section id="catalog">
+        <article class="item">
+            <h2></h2>
+            <p>Добро пожаловать на образовательный ресурс, посвященный изучению и анализу дел серийных убийц Советского Союза. Здесь можно ознакомиться с историей криминальных происшествий, проанализировать аспекты поведения преступников и разобрать методы расследования серийных убийств. Цель - не только рассказать о прошлом, но и использовать эти знания для профилактики подобных преступлений в будущем. Присоединяйтесь к познавательному и интересному путешествии по миру криминалистики и психологии!</p>
+        </article>
+        <article class="item">
+            <h2>coming soon</h2>
+            <p>2.</p>
+        </article>
+    </section>
+    <footer>
+        <p>&copy; 2024</p>
+    </footer>
+</body>
+</html>
